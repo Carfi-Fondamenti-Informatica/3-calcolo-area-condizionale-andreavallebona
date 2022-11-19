@@ -22,6 +22,3 @@ int main() {
     cout << area << endl;
     return 0;
 }
-int main() {
-   return 0;
-}
